@@ -45,13 +45,13 @@ Institución Educativa Santa Fe
 : **Endava | Cali**
 : **Febrero 2026 - Julio 2026**
 
-- Contribución a un MVP interno de analítica que automatiza la ingesta, validación, cálculo y visualización de indicadores de seguridad previamente gestionados mediante flujos de trabajo fragmentados en Excel.
+- Contribuí a un MVP interno de analítica que automatiza la ingesta, validación, cálculo y visualización de indicadores de seguridad previamente gestionados mediante flujos de trabajo fragmentados en Excel.
 
-- Participación en el análisis de requerimientos, modelado de flujos de datos y definición del backlog para los módulos de la aplicación.
+- Participé en el análisis de requerimientos, modelado de flujos de datos y definición del backlog para los módulos de la aplicación.
 
-- Apoyo en la definición de una arquitectura práctica basada en Python, .NET 8 Web API, React + TypeScript, PostgreSQL, Docker y pruebas automatizadas para mejorar la trazabilidad, mantenibilidad y confiabilidad de los reportes.
+- Apoyé en la definición de una arquitectura práctica basada en Python, .NET 8 Web API, React + TypeScript, PostgreSQL, Docker y pruebas automatizadas para mejorar la trazabilidad, mantenibilidad y confiabilidad de los reportes.
 
-- Apoyo en la definición de dashboards con control por roles, requisitos de auditabilidad, gestión de evidencias, versionamiento de cálculos y prácticas de uso responsable de IA para una solución interna escalable.
+- Apoyé en la definición de dashboards con control por roles, requisitos de auditabilidad, gestión de evidencias, versionamiento de cálculos y prácticas de uso responsable de IA para una solución interna escalable.
 
 ## IDIOMAS
 

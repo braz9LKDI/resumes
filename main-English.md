@@ -45,7 +45,7 @@ Institución Educativa Santa Fe
 : **Endava| Cali**
 : **2026 February - 2026 July**
 
-- Contributing to an internal analytics MVP that automates data ingestion, validation, calculation and visualization of safety indicators previously managed through fragmented Excel workflows.
+- Contributed to an internal analytics MVP that automates data ingestion, validation, calculation and visualization of safety indicators previously managed through fragmented Excel workflows.
 
 - Worked on requirements analysis, data-flow modeling and backlog definition for the application modules.
 
