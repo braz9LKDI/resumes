@@ -1,0 +1,81 @@
+cv:
+  name: Brandon Calderón Prieto
+  location: Cali, Colombia
+  email: bcalderonprieto@gmail.com
+  phone: "+57 301 508 8603"
+  website: https://braz9lkdi.github.io
+  social_networks:
+    - network: LinkedIn
+      username: "brandon-calderón-prieto-150829355"
+    - network: GitHub
+      username: braz9LKDI
+
+  sections:
+    PERFIL PROFESIONAL:
+      - >-
+        Estudiante de Ingeniería de Sistemas con un fuerte interés en Linux,
+        la cultura open source, los flujos de trabajo en línea de comandos y
+        la calidad de software. Experiencia práctica con Python, Git, GitHub,
+        Docker y mentoría técnica. Me apasiona entender cómo funcionan los
+        sistemas más allá de la superficie, resolver problemas mediante
+        pensamiento estructurado y construir soluciones confiables y
+        mantenibles. Interesado en cargos relacionados con ingeniería de
+        software, automatización e infraestructura TI.
+
+    FORMACIÓN ACADÉMICA:
+      - institution: Universidad del Valle
+        area: Ingeniería de Sistemas
+        start_date: 2021
+        end_date: present
+        location: Cali, Colombia
+
+      - institution: Institución Educativa Santa Fe
+        area: Bachiller con énfasis en Humanidades
+        start_date: 2010
+        end_date: 2020
+        location: Cali, Colombia
+
+    EXPERIENCIA:
+      - company: Endava
+        position: Practicante
+        start_date: 2026-02
+        end_date: 2026-07
+        location: Cali, Colombia
+        highlights:
+          - Contribuí a un MVP interno de analítica que automatiza la ingesta, validación, cálculo y visualización de indicadores de seguridad previamente gestionados mediante flujos de trabajo fragmentados en Excel.
+          - Participé en el análisis de requerimientos, modelado de flujos de datos y definición del backlog para los módulos de la aplicación.
+          - Apoyé en la definición de una arquitectura práctica basada en Python, .NET 8 Web API, React + TypeScript, PostgreSQL, Docker y pruebas automatizadas para mejorar la trazabilidad, mantenibilidad y confiabilidad de los reportes.
+          - Apoyé en la definición de dashboards con control por roles, requisitos de auditabilidad, gestión de evidencias, versionamiento de cálculos y prácticas de uso responsable de IA para una solución interna escalable.
+
+      - company: Estrategia ASES - Universidad del Valle
+        position: Mentor socioacadémico
+        start_date: 2023
+        end_date: 2025
+        location: Cali, Colombia
+        highlights:
+          - Acompañé a estudiantes de primer semestre en su adaptación académica, fundamentos de programación y estrategias de aprendizaje autónomo.
+          - Diseñé y lideré talleres prácticos sobre Git, Docker y flujos de trabajo de desarrollo, ayudando a los estudiantes a ganar confianza con herramientas técnicas modernas.
+          - Apoyé a estudiantes en la resolución de retos académicos y técnicos, fortaleciendo su autonomía, confianza y capacidad para resolver problemas.
+
+    IDIOMAS:
+      - label: Español
+        details: Nativo
+      - label: Inglés
+        details: B2
+
+    HABILIDADES:
+      - label: Programación
+        details: Python, JavaScript, HTML y CSS
+      - label: Herramientas
+        details: Git, GitHub, Docker y VS Code
+      - label: Sistemas operativos
+        details: Administración de Linux, personalización y flujos de trabajo en CLI
+      - label: Gestión del conocimiento
+        details: Toma de notas estructurada, documentación técnica y flujos de trabajo tipo second brain
+      - label: Habilidades transversales
+        details: Trabajo en equipo y colaboración proactiva; comunicación técnica; resolución colaborativa de problemas; liderazgo y motivación de equipos
+
+    INTERESES:
+      - bullet: Software Libre y de Código Abierto (FOSS), sistemas Linux y flujos de trabajo basados en CLI.
+      - bullet: Documentación técnica, toma de notas estructurada y gestión personal del conocimiento.
+      - bullet: Automatización, scripting, herramientas de desarrollo y entornos reproducibles.

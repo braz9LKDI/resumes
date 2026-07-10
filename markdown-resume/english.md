@@ -31,16 +31,6 @@ Institución Educativa Santa Fe
 
 ## EXPERIENCE
 
-**Socio-Academic Mentor**
-: **ASES Strategy - Universidad del Valle | Cali**
-: **2023 - 2025**
-
-- Mentored first-semester students in academic adaptation, programming fundamentals and independent learning strategies.
-
-- Designed and led practical workshops on Git, Docker and development workflows, helping students become more confident with modern technical tools.
-
-- Supported students in solving academic and technical challenges, strengthening their autonomy, confidence and problem-solving skills.
-
 **Intern**
 : **Endava| Cali**
 : **2026 February - 2026 July**
@@ -52,6 +42,16 @@ Institución Educativa Santa Fe
 - Supported a practical architecture using Python, .NET 8 Web API, React + TypeScript, PostgreSQL, Docker and automated testing to improve traceability, maintainability and reporting reliability.
 
 - Helped define role-aware dashboards, auditability requirements, evidence handling, calculation versioning and responsible AI usage practices for a scalable internal solution.
+
+**Socio-Academic Mentor**
+: **ASES Strategy - Universidad del Valle | Cali**
+: **2023 - 2025**
+
+- Mentored first-semester students in academic adaptation, programming fundamentals and independent learning strategies.
+
+- Designed and led practical workshops on Git, Docker and development workflows, helping students become more confident with modern technical tools.
+
+- Supported students in solving academic and technical challenges, strengthening their autonomy, confidence and problem-solving skills.
 
 ## LANGUAGES
 

@@ -1,0 +1,80 @@
+cv:
+  name: Brandon Calderón Prieto
+  location: Cali, Colombia
+  email: bcalderonprieto@gmail.com
+  website: https://braz9lkdi.github.io
+  social_networks:
+    - network: LinkedIn
+      username: "brandon-calderón-prieto-150829355"
+    - network: GitHub
+      username: braz9LKDI
+  sections:
+    PROFESSIONAL PROFILE:
+      - >-
+        Systems Engineering student with a strong interest in Linux,
+        open-source culture, CLI workflows and software quality. Hands-on
+        experience with Python, Git, GitHub, Docker and technical mentoring.
+        Passionate about understanding how systems work beyond the surface,
+        solving problems through structured thinking and building reliable,
+        maintainable solutions. Interested in software engineering,
+        automation and IT infrastructure roles.
+
+    EDUCATION:
+      - institution: Universidad del Valle
+        area: Systems Engineering
+        degree: B.S.
+        start_date: 2021
+        end_date: present
+        location: Cali, Colombia
+
+      - institution: Institución Educativa Santa Fe
+        area: Humanities
+        degree: High School Diploma
+        start_date: 2010
+        end_date: 2020
+        location: Cali, Colombia
+
+    EXPERIENCE:
+      - company: Endava
+        position: Intern
+        start_date: 2026-02
+        end_date: 2026-07
+        location: Cali, Colombia
+        highlights:
+          - Contributed to an internal analytics MVP that automates data ingestion, validation, calculation and visualization of safety indicators previously managed through fragmented Excel workflows.
+          - Worked on requirements analysis, data-flow modeling and backlog definition for the application modules.
+          - Supported a practical architecture using Python, .NET 8 Web API, React + TypeScript, PostgreSQL, Docker and automated testing to improve traceability, maintainability and reporting reliability.
+          - Helped define role-aware dashboards, auditability requirements, evidence handling, calculation versioning and responsible AI usage practices for a scalable internal solution.
+
+      - company: ASES Strategy - Universidad del Valle
+        position: Socio-Academic Mentor
+        start_date: 2023
+        end_date: 2025
+        location: Cali, Colombia
+        highlights:
+          - Mentored first-semester students in academic adaptation, programming fundamentals and independent learning strategies.
+          - Designed and led practical workshops on Git, Docker and development workflows, helping students become more confident with modern technical tools.
+          - Supported students in solving academic and technical challenges, strengthening their autonomy, confidence and problem-solving skills.
+
+    LANGUAGES:
+      - label: Spanish
+        details: Native
+      - label: English
+        details: B2
+
+    SKILLS:
+      - label: Programming
+        details: Python, JavaScript, HTML and CSS
+      - label: Tools
+        details: Git, GitHub, Docker and VS Code
+      - label: Operating Systems
+        details: Linux administration, customization and CLI workflows
+      - label: Knowledge Management
+        details: Structured note-taking, technical documentation and second-brain workflows
+      - label: Transversal
+        details: Teamwork and proactive collaboration; technical communication; collaborative problem-solving; leadership and team motivation
+
+    INTERESTS:
+      - bullet: Free and Open Source Software (FOSS), Linux systems and CLI-based workflows.
+      - bullet: Technical documentation, structured note-taking and personal knowledge management.
+      - bullet: Automation, scripting, development tooling and reproducible environments.

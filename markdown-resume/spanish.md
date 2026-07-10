@@ -31,16 +31,6 @@ Institución Educativa Santa Fe
 
 ## EXPERIENCIA
 
-**Mentor socioacadémico**
-: **Estrategia ASES - Universidad del Valle | Cali**
-: **2023 - 2025**
-
-- Acompañé a estudiantes de primer semestre en su adaptación académica, fundamentos de programación y estrategias de aprendizaje autónomo.
-
-- Diseñé y lideré talleres prácticos sobre Git, Docker y flujos de trabajo de desarrollo, ayudando a los estudiantes a ganar confianza con herramientas técnicas modernas.
-
-- Apoyé a estudiantes en la resolución de retos académicos y técnicos, fortaleciendo su autonomía, confianza y capacidad para resolver problemas.
-
 **Practicante**
 : **Endava | Cali**
 : **Febrero 2026 - Julio 2026**
@@ -52,6 +42,16 @@ Institución Educativa Santa Fe
 - Apoyé en la definición de una arquitectura práctica basada en Python, .NET 8 Web API, React + TypeScript, PostgreSQL, Docker y pruebas automatizadas para mejorar la trazabilidad, mantenibilidad y confiabilidad de los reportes.
 
 - Apoyé en la definición de dashboards con control por roles, requisitos de auditabilidad, gestión de evidencias, versionamiento de cálculos y prácticas de uso responsable de IA para una solución interna escalable.
+
+**Mentor socioacadémico**
+: **Estrategia ASES - Universidad del Valle | Cali**
+: **2023 - 2025**
+
+- Acompañé a estudiantes de primer semestre en su adaptación académica, fundamentos de programación y estrategias de aprendizaje autónomo.
+
+- Diseñé y lideré talleres prácticos sobre Git, Docker y flujos de trabajo de desarrollo, ayudando a los estudiantes a ganar confianza con herramientas técnicas modernas.
+
+- Apoyé a estudiantes en la resolución de retos académicos y técnicos, fortaleciendo su autonomía, confianza y capacidad para resolver problemas.
 
 ## IDIOMAS
 
