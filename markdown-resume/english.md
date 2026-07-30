@@ -13,7 +13,7 @@
 
 ## PROFESSIONAL PROFILE
 
-Systems Engineering student with a strong interest in Linux, open-source culture, CLI workflows and software quality. Hands-on experience with Python, Git, GitHub, Docker and technical mentoring. Passionate about understanding how systems work beyond the surface, solving problems through structured thinking and building reliable, maintainable solutions. Interested in software engineering, automation and IT infrastructure roles.
+Systems Engineering student with hands-on experience in full-stack development, data automation and software delivery. At Endava, I contributed to an internal analytics MVP using Python, .NET 8, React, TypeScript, PostgreSQL and Docker, working across requirements analysis, data-flow modeling, backlog definition and maintainable solution development within Scrum. I also mentored first-semester students in programming fundamentals, Git, Docker and independent learning, with a strong interest in open-source culture.
 
 ## EDUCATION
 

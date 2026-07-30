@@ -13,14 +13,7 @@ cv:
   sections:
     PERFIL PROFESIONAL:
       - >-
-        Estudiante de Ingeniería de Sistemas con un fuerte interés en Linux,
-        la cultura open source, los flujos de trabajo en línea de comandos y
-        la calidad de software. Experiencia práctica con Python, Git, GitHub,
-        Docker y mentoría técnica. Me apasiona entender cómo funcionan los
-        sistemas más allá de la superficie, resolver problemas mediante
-        pensamiento estructurado y construir soluciones confiables y
-        mantenibles. Interesado en cargos relacionados con ingeniería de
-        software, automatización e infraestructura TI.
+        Estudiante de Ingeniería de Sistemas con experiencia práctica en desarrollo full-stack, automatización de datos y software delivery. En Endava, colaboré en un MVP de análisis interno utilizando Python, .NET 8, React, TypeScript, PostgreSQL y Docker, trabajando en el análisis de requisitos, el modelado de flujos de datos, la definición del backlog y el desarrollo de soluciones mantenibles dentro del método Scrum. También fui mentor de estudiantes de primer semestre en fundamentos de programación, Git, Docker y aprendizaje autónomo, mostrando un gran interés por la cultura del código abierto.
 
     FORMACIÓN ACADÉMICA:
       - institution: Universidad del Valle
