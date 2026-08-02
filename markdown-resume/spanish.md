@@ -31,7 +31,7 @@ Institución Educativa Santa Fe
 
 ## EXPERIENCIA
 
-**Practicante**
+**Pasante de Data and AI**
 : **Endava | Cali**
 : **Febrero 2026 - Julio 2026**
 

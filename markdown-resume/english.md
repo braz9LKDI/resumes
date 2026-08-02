@@ -31,7 +31,7 @@ Institución Educativa Santa Fe
 
 ## EXPERIENCE
 
-**Intern**
+**Data and AI intern**
 : **Endava| Cali**
 : **2026 February - 2026 July**
 
