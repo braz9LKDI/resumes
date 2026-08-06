@@ -57,7 +57,7 @@ cv:
 
     HABILIDADES:
       - label: Programación
-        details: Python, JavaScript, HTML y CSS
+        details: Java, Python, JavaScript, HTML, CSS y SQL
       - label: Herramientas
         details: Git, GitHub, Docker y VS Code
       - label: Sistemas operativos

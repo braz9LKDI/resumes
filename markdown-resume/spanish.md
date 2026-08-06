@@ -3,13 +3,13 @@
   <img src="https://github.com/braz9LKDI/LaTex_resume/blob/main/picture.png?raw=true" alt="Foto de Brandon Calderón Prieto" class="profile-photo">
 </div>
 
-<span class="iconify" data-icon="charm:person"></span> [braz9lkdi.github.io](https://braz9lkdi.github.io)
-: <span class="iconify" data-icon="tabler:brand-github"></span> [github.com/braz9LKDI](https://github.com/braz9LKDI)
-: <span class="iconify" data-icon="tabler:phone"></span> (+57) 301 508 8603
+<iconify-icon icon="charm:person"></iconify-icon> [braz9lkdi.github.io](https://braz9lkdi.github.io)
+: <iconify-icon icon="tabler:brand-github"></iconify-icon> [github.com/braz9LKDI](https://github.com/braz9LKDI)
+: <iconify-icon icon="tabler:phone"></iconify-icon> (+57) 301 508 8603
 
-<span class="iconify" data-icon="ic:outline-location-on"></span> Cali, Colombia
-: <span class="iconify" data-icon="tabler:brand-linkedin"></span> [LinkedIn](https://www.linkedin.com/in/brandon-calderón-prieto-150829355/)
-: <span class="iconify" data-icon="tabler:mail"></span> [bcalderonprieto@gmail.com](mailto:bcalderonprieto@gmail.com)
+<iconify-icon icon="ic:outline-location-on"></iconify-icon> Cali, Colombia
+: <iconify-icon icon="tabler:brand-linkedin"></iconify-icon> [LinkedIn](https://www.linkedin.com/in/brandon-calderón-prieto-150829355/)
+: <iconify-icon icon="tabler:mail"></iconify-icon> [bcalderonprieto@gmail.com](mailto:bcalderonprieto@gmail.com)
 
 ## PERFIL PROFESIONAL
 
@@ -69,28 +69,30 @@ Institución Educativa Santa Fe
     <ul>
       <li>
         <strong>Programación:</strong>
-        <span class="iconify" data-icon="vscode-icons:file-type-python"></span> Python,
-        <span class="iconify" data-icon="vscode-icons:file-type-js-official"></span> JavaScript,
-        <span class="iconify" data-icon="vscode-icons:file-type-html"></span> HTML y
-        <span class="iconify" data-icon="vscode-icons:file-type-css"></span> CSS.
+        <iconify-icon icon="vscode-icons:file-type-java"></iconify-icon> Java,
+        <iconify-icon icon="vscode-icons:file-type-python"></iconify-icon> Python,
+        <iconify-icon icon="vscode-icons:file-type-js-official"></iconify-icon> JavaScript,
+        <iconify-icon icon="vscode-icons:file-type-html"></iconify-icon> HTML,
+        <iconify-icon icon="vscode-icons:file-type-css"></iconify-icon> CSS y
+        <iconify-icon icon="vscode-icons:file-type-sql"></iconify-icon> SQL.
       </li>
       <li>
         <strong>Herramientas:</strong>
-        <span class="iconify" data-icon="logos:git-icon"></span> Git,
-        <span class="iconify" data-icon="mdi:github"></span> GitHub,
-        <span class="iconify" data-icon="logos:docker-icon"></span> Docker y
-        <span class="iconify" data-icon="logos:visual-studio-code"></span> VS Code.
+        <iconify-icon icon="logos:git-icon"></iconify-icon> Git,
+        <iconify-icon icon="mdi:github"></iconify-icon> GitHub,
+        <iconify-icon icon="logos:docker-icon"></iconify-icon> Docker y
+        <iconify-icon icon="logos:visual-studio-code"></iconify-icon> VS Code.
       </li>
       <li>
         <strong>Sistemas operativos:</strong>
-        <span class="iconify" data-icon="logos:linux-tux"></span> administración de Linux,
-        <span class="iconify" data-icon="tabler:terminal-2"></span> personalización y flujos de trabajo en CLI.
+        <iconify-icon icon="logos:linux-tux"></iconify-icon> administración de Linux,
+        <iconify-icon icon="tabler:terminal-2"></iconify-icon> personalización y flujos de trabajo en CLI.
       </li>
       <li>
         <strong>Gestión del conocimiento:</strong>
-        <span class="iconify" data-icon="tabler:notes"></span> toma de notas estructurada,
-        <span class="iconify" data-icon="tabler:file-text"></span> documentación técnica y
-        <span class="iconify" data-icon="tabler:brain"></span> flujos de trabajo tipo second brain.
+        <iconify-icon icon="tabler:notes"></iconify-icon> toma de notas estructurada,
+        <iconify-icon icon="tabler:file-text"></iconify-icon> documentación técnica y
+        <iconify-icon icon="tabler:brain"></iconify-icon> flujos de trabajo tipo second brain.
       </li>
     </ul>
   </div>
@@ -99,19 +101,19 @@ Institución Educativa Santa Fe
     <h3>Transversales</h3>
     <ul>
       <li>
-        <span class="iconify" data-icon="tabler:users"></span>
+        <iconify-icon icon="tabler:users"></iconify-icon>
         Trabajo en equipo y colaboración proactiva.
       </li>
       <li>
-        <span class="iconify" data-icon="tabler:message-code"></span>
+        <iconify-icon icon="tabler:message-code"></iconify-icon>
         Comunicación técnica.
       </li>
       <li>
-        <span class="iconify" data-icon="tabler:puzzle"></span>
+        <iconify-icon icon="tabler:puzzle"></iconify-icon>
         Resolución colaborativa de problemas.
       </li>
       <li>
-        <span class="iconify" data-icon="tabler:flag"></span>
+        <iconify-icon icon="tabler:flag"></iconify-icon>
         Liderazgo y motivación de equipos.
       </li>
     </ul>

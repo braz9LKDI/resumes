@@ -57,7 +57,7 @@ cv:
 
     SKILLS:
       - label: Programming
-        details: Python, JavaScript, HTML and CSS
+        details: Java, Python, JavaScript, HTML, CSS and SQL
       - label: Tools
         details: Git, GitHub, Docker and VS Code
       - label: Operating Systems
