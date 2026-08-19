@@ -47,7 +47,7 @@ Institución Educativa Santa Fe
 : **Estrategia ASES - Universidad del Valle | Cali**
 : **2023 - 2025**
 
-- Acompañé a estudiantes de primer semestre en su adaptación académica, fundamentos de programación y estrategias de aprendizaje autónomo.
+- Acompañé a estudiantes en su adaptación académica, fundamentos de programación y estrategias de aprendizaje autónomo.
 
 - Diseñé y lideré talleres prácticos sobre Git, Docker y flujos de trabajo de desarrollo, ayudando a los estudiantes a ganar confianza con herramientas técnicas modernas.
 

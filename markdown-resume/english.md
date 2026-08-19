@@ -47,7 +47,7 @@ Institución Educativa Santa Fe
 : **ASES Strategy - Universidad del Valle | Cali**
 : **2023 - 2025**
 
-- Mentored first-semester students in academic adaptation, programming fundamentals and independent learning strategies.
+- Mentored students in academic adaptation, programming fundamentals and independent learning strategies.
 
 - Designed and led practical workshops on Git, Docker and development workflows, helping students become more confident with modern technical tools.
 
