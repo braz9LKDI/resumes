@@ -1,3 +1,4 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
 cv:
   name: Brandon Calderón Prieto
   location: Cali, Colombia
@@ -71,3 +72,13 @@ cv:
       - bullet: Free and Open Source Software (FOSS), Linux systems and CLI-based workflows.
       - bullet: Technical documentation, structured note-taking and personal knowledge management.
       - bullet: Automation, scripting, development tooling and reproducible environments.
+design:
+  theme: engineeringresumes
+locale:
+  language: english
+settings:
+  current_date: today
+  render_command:
+    pdf_path: NAME_IN_SNAKE_CASE_CV.pdf
+  bold_keywords: []
+  pdf_title: NAME - CV

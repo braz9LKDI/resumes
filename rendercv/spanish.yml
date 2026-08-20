@@ -71,3 +71,13 @@ cv:
       - bullet: Software Libre y de Código Abierto (FOSS), sistemas Linux y flujos de trabajo basados en CLI.
       - bullet: Documentación técnica, toma de notas estructurada y gestión personal del conocimiento.
       - bullet: Automatización, scripting, herramientas de desarrollo y entornos reproducibles.
+design:
+  theme: engineeringresumes
+locale:
+  language: spanish
+settings:
+  current_date: today
+  render_command:
+    pdf_path: NAME_IN_SNAKE_CASE_CV.pdf
+  bold_keywords: []
+  pdf_title: NAME - CV
