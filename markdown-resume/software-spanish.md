@@ -13,7 +13,7 @@
 
 ## PERFIL PROFESIONAL
 
-Estudiante de Ingeniería de Sistemas con experiencia práctica en desarrollo full-stack, automatización de datos y software delivery. En Endava, colaboré en un MVP de análisis interno utilizando Python, .NET 8, React, TypeScript, PostgreSQL y Docker, trabajando en el análisis de requisitos, el modelado de flujos de datos, la definición del backlog y el desarrollo de soluciones mantenibles dentro del método Scrum. También fui mentor de estudiantes de primer semestre en fundamentos de programación, Git, Docker y aprendizaje autónomo, mostrando un gran interés por la cultura del código abierto.
+Estudiante de Ingeniería de Sistemas con experiencia en desarrollo full-stack y datos. En Endava ayudé a construir un MVP de análisis interno que reemplazó flujos fragmentados en Excel para el seguimiento de indicadores de seguridad. Durante dos años fui mentor de estudiantes universitarios en programación, Git y Docker, y me interesa el software de código abierto. Busco un rol como desarrollador full-stack junior.
 
 ## FORMACIÓN ACADÉMICA
 
@@ -53,6 +53,22 @@ Institución Educativa Santa Fe
 
 - Apoyé a estudiantes en la resolución de retos académicos y técnicos, fortaleciendo su autonomía, confianza y capacidad para resolver problemas.
 
+## PROYECTOS
+
+**OpenTube Insights — Trabajo de grado**
+: **Universidad del Valle | Cali**
+: **2025 - Presente**
+
+- Desarrollo de una aplicación web que recolecta, procesa y visualiza datos de YouTube para investigación académica reproducible.
+
+- Diseñé un backend en Django REST Framework y PostgreSQL que registra cada petición a la YouTube Data API y el estado de cada recolección, para que otro investigador pueda rastrear y repetir un conjunto de datos.
+
+- Integré un LLM para análisis de sentimiento de comentarios y generación de consultas de búsqueda, registrando qué modelo produjo cada resultado; los datos, el sentimiento y las métricas son exportables.
+
+- Construí el frontend en React + TypeScript (Vite); entorno con Docker Compose y pruebas automatizadas con las APIs externas simuladas.
+
+- Entregué 40 historias de usuario del backlog mediante ramas, pull requests con revisión de código y seguimiento en Taiga, con un flujo de desarrollo asistido por IA basado en especificaciones (planes y criterios de aceptación escritos, código revisado y verificado).
+
 ## IDIOMAS
 
 **Español**
@@ -75,6 +91,12 @@ Institución Educativa Santa Fe
         <iconify-icon icon="vscode-icons:file-type-html"></iconify-icon> HTML,
         <iconify-icon icon="vscode-icons:file-type-css"></iconify-icon> CSS y
         <iconify-icon icon="vscode-icons:file-type-sql"></iconify-icon> SQL.
+      </li>
+      <li>
+        <strong>Framework:</strong>
+        <iconify-icon icon="vscode-icons:file-type-django"></iconify-icon> Django REST Framework,
+        <iconify-icon icon="vscode-icons:file-type-reactjs"></iconify-icon> React y
+        <iconify-icon icon="logos:dotnet"></iconify-icon> .NET 8 Web API.
       </li>
       <li>
         <strong>Herramientas:</strong>

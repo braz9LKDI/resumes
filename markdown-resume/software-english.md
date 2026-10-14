@@ -13,7 +13,7 @@
 
 ## PROFESSIONAL PROFILE
 
-Systems Engineering student with hands-on experience in full-stack development, data automation and software delivery. At Endava, I contributed to an internal analytics MVP using Python, .NET 8, React, TypeScript, PostgreSQL and Docker, working across requirements analysis, data-flow modeling, backlog definition and maintainable solution development within Scrum. I also mentored first-semester students in programming fundamentals, Git, Docker and independent learning, with a strong interest in open-source culture.
+Systems Engineering student with full-stack and data experience. At Endava I helped build an internal analytics MVP that replaced fragmented Excel workflows for tracking safety indicators. For two years I mentored university students in programming, Git and Docker, and I care about open-source software. Looking for a junior full-stack developer role.
 
 ## EDUCATION
 
@@ -32,7 +32,7 @@ Institución Educativa Santa Fe
 ## EXPERIENCE
 
 **Data and AI intern**
-: **Endava| Cali**
+: **Endava | Cali**
 : **2026 February - 2026 July**
 
 - Contributed to an internal analytics MVP that automates data ingestion, validation, calculation and visualization of safety indicators previously managed through fragmented Excel workflows.
@@ -52,6 +52,22 @@ Institución Educativa Santa Fe
 - Designed and led practical workshops on Git, Docker and development workflows, helping students become more confident with modern technical tools.
 
 - Supported students in solving academic and technical challenges, strengthening their autonomy, confidence and problem-solving skills.
+
+## PROJECTS
+
+**OpenTube Insights — Undergraduate Thesis**
+: **Universidad del Valle | Cali**
+: **2025 - Present**
+
+- Building a web application that collects, processes and visualizes YouTube data for reproducible academic research.
+
+- Designed a Django REST Framework and PostgreSQL backend that logs every YouTube Data API request and the status of each collection run, so another researcher can trace and repeat a dataset.
+
+- Integrated an LLM for comment sentiment analysis and search-query generation, recording which model produced each result; datasets, sentiment and metrics are exportable.
+
+- Built the React + TypeScript (Vite) frontend; Docker Compose environment and automated tests with external APIs stubbed.
+
+- Delivered 40 backlog user stories through feature branches, pull requests with code review and Taiga tracking, using an AI-assisted spec-driven workflow (written plans and acceptance criteria, reviewed and verified code).
 
 ## LANGUAGES
 
@@ -75,6 +91,12 @@ Institución Educativa Santa Fe
         <iconify-icon icon="vscode-icons:file-type-html"></iconify-icon> HTML,
         <iconify-icon icon="vscode-icons:file-type-css"></iconify-icon> CSS and
         <iconify-icon icon="vscode-icons:file-type-sql"></iconify-icon> SQL.
+      </li>
+      <li>
+        <strong>Framework:</strong>
+        <iconify-icon icon="vscode-icons:file-type-django"></iconify-icon> Django REST Framework,
+        <iconify-icon icon="vscode-icons:file-type-reactjs"></iconify-icon> React and
+        <iconify-icon icon="logos:dotnet"></iconify-icon> .NET 8 Web API.
       </li>
       <li>
         <strong>Tools:</strong>

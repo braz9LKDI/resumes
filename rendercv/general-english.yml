@@ -1,0 +1,78 @@
+cv:
+  name: Brandon Calderón Prieto
+  location: Cali, Colombia
+  email: bcalderonprieto@gmail.com
+  phone: "+57 301 508 8603"
+  website: https://braz9lkdi.github.io
+  social_networks:
+    - network: LinkedIn
+      username: "brandon-calderón-prieto-150829355"
+    - network: GitHub
+      username: braz9LKDI
+
+  sections:
+    PROFESSIONAL PROFILE:
+      - Systems Engineering student with two years of one-on-one student mentoring at Universidad del Valle and a six-month internship at Endava. Skilled in customer service, teamwork and solving problems in dynamic environments.
+
+    EDUCATION:
+      - institution: Universidad del Valle
+        area: Systems Engineering
+        start_date: 2021
+        end_date: present
+        location: Cali, Colombia
+
+      - institution: Institución Educativa Santa Fe
+        area: Humanities
+        degree: High School Diploma
+        start_date: 2010
+        end_date: 2020
+        location: Cali, Colombia
+
+    EXPERIENCE:
+      - company: Endava
+        position: Data and AI intern
+        start_date: 2026-02
+        end_date: 2026-07
+        location: Cali, Colombia
+        highlights:
+          - Support in collecting, validating, and organizing operational information for internal indicators.
+          - Collaborative work on optimizing workflows and documenting processes.
+          - Addressing operational requirements and tracking tasks.
+
+      - company: ASES Strategy - Universidad del Valle
+        position: Socio-Academic Mentor
+        start_date: 2023
+        end_date: 2025
+        location: Cali, Colombia
+        highlights:
+          - Personalized attention, guidance, and support for students as they adapt and learn.
+          - Leading individual workshops and teaching assertive communication.
+          - Ongoing support, collaborative problem-solving, and motivating others.
+
+    LANGUAGES:
+      - label: Spanish
+        details: Native
+      - label: English
+        details: B2
+
+    SKILLS:
+      - label: Customer Service
+        details: Customer service, assertive communication, empathy, and teamwork.
+      - label: Operational Skills
+        details: Proficiency with computer tools, task organization, and following instructions.
+
+    INTERESTS:
+      - bullet: Teamwork, customer service, and group dynamics.
+      - bullet: Personal organization, task management, and documentation.
+      - bullet: Continuous learning and development of interpersonal skills.
+
+design:
+  theme: engineeringresumes
+locale:
+  language: english
+settings:
+  current_date: today
+  render_command:
+    pdf_path: NAME_IN_SNAKE_CASE_CV.pdf
+  bold_keywords: []
+  pdf_title: NAME - CV

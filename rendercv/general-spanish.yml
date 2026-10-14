@@ -1,0 +1,76 @@
+cv:
+  name: Brandon Calderón Prieto
+  location: Cali, Colombia
+  email: bcalderonprieto@gmail.com
+  phone: "+57 301 508 8603"
+  website: https://braz9lkdi.github.io
+  social_networks:
+    - network: LinkedIn
+      username: "brandon-calderón-prieto-150829355"
+    - network: GitHub
+      username: braz9LKDI
+
+  sections:
+    PERFIL PROFESIONAL:
+      - Estudiante de Ingeniería de Sistemas con dos años de experiencia como mentor individual de estudiantes en la Universidad del Valle y una pasantía de seis meses en Endava. Con habilidades en atención al público, trabajo en equipo y resolución de problemas en entornos dinámicos.
+
+    FORMACIÓN ACADÉMICA:
+      - institution: Universidad del Valle
+        area: Ingeniería de Sistemas
+        start_date: 2021
+        end_date: present
+        location: Cali, Colombia
+
+      - institution: Institución Educativa Santa Fe
+        area: Bachiller con énfasis en Humanidades
+        start_date: 2010
+        end_date: 2020
+        location: Cali, Colombia
+
+    EXPERIENCIA:
+      - company: Endava
+        position: Pasante de Data and AI
+        start_date: 2026-02
+        end_date: 2026-07
+        location: Cali, Colombia
+        highlights:
+          - Apoyo en la recolección, validación y organización de información operativa para indicadores internos.
+          - Trabajo colaborativo en la optimización de flujos de trabajo y documentación de procesos.
+          - Atención a requerimientos operativos y seguimiento de tareas.
+
+      - company: Estrategia ASES - Universidad del Valle
+        position: Mentor socioacadémico
+        start_date: 2023
+        end_date: 2025
+        location: Cali, Colombia
+        highlights:
+          - Atención, guía y soporte personalizado a estudiantes en procesos de adaptación y aprendizaje.
+          - Liderazgo de talleres individuales y comunicación asertiva.
+          - Acompañamiento continuo, resolución colaborativa de problemas y motivación de personas.
+    IDIOMAS:
+      - label: Español
+        details: Nativo
+      - label: Inglés
+        details: B2
+
+    HABILIDADES:
+      - label: Atención y Servicio
+        details: Servicio al cliente, comunicación asertiva, empatía y trabajo en equipo
+      - label: Competencias Operativas
+        details: Manejo de herramientas informáticas, organización de tareas y seguimiento de instrucciones
+
+    INTERESES:
+      - bullet: Trabajo en equipo, atención al público y dinámicas de grupo.
+      - bullet: Organización personal, gestión de tareas y documentación.
+      - bullet: Aprendizaje continuo y desarrollo de habilidades interpersonales.
+
+design:
+  theme: engineeringresumes
+locale:
+  language: spanish
+settings:
+  current_date: today
+  render_command:
+    pdf_path: NAME_IN_SNAKE_CASE_CV.pdf
+  bold_keywords: []
+  pdf_title: NAME - CV

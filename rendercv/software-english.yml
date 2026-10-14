@@ -11,7 +11,7 @@ cv:
       username: braz9LKDI
   sections:
     PROFESSIONAL PROFILE:
-      - Systems Engineering student with hands-on experience in full-stack development, data automation and software delivery. At Endava, I contributed to an internal analytics MVP using Python, .NET 8, React, TypeScript, PostgreSQL and Docker, working across requirements analysis, data-flow modeling, backlog definition and maintainable solution development within Scrum. I also mentored first-semester students in programming fundamentals, Git, Docker and independent learning, with a strong interest in open-source culture.
+      - Systems Engineering student with full-stack and data experience. At Endava I helped build an internal analytics MVP that replaced fragmented Excel workflows for tracking safety indicators. For two years I mentored university students in programming, Git and Docker, and I care about open-source software. Looking for a junior full-stack developer role.
 
     EDUCATION:
       - institution: Universidad del Valle
@@ -20,6 +20,9 @@ cv:
         start_date: 2021
         end_date: present
         location: Cali, Colombia
+        highlights:
+          - "Thesis project (2025 - present): planning and building a tool that helps researchers collect and analyze YouTube data, organizing the work into 40 tracked tasks."
+          - Writing the full thesis report, documenting each decision so others can repeat the work.
 
       - institution: Institución Educativa Santa Fe
         area: Humanities
@@ -50,6 +53,18 @@ cv:
           - Designed and led practical workshops on Git, Docker and development workflows, helping students become more confident with modern technical tools.
           - Supported students in solving academic and technical challenges, strengthening their autonomy, confidence and problem-solving skills.
 
+    PROJECTS:
+      - name: "OpenTube Insights — Undergraduate Thesis"
+        location: Universidad del Valle
+        start_date: 2025-10
+        end_date: present
+        highlights:
+          - Building a web application that collects, processes and visualizes YouTube data for reproducible academic research.
+          - Designed a Django REST Framework and PostgreSQL backend that logs every YouTube Data API request and the status of each collection run, so another researcher can trace and repeat a dataset.
+          - Integrated an LLM for comment sentiment analysis and search-query generation, recording which model produced each result; datasets, sentiment and metrics are exportable.
+          - Built the React + TypeScript (Vite) frontend; Docker Compose environment and automated tests with external APIs stubbed.
+          - Delivered 40 backlog user stories through feature branches, pull requests with code review and Taiga tracking, using an AI-assisted spec-driven workflow (written plans and acceptance criteria, reviewed and verified code).
+
     LANGUAGES:
       - label: Spanish
         details: Native
@@ -58,20 +73,23 @@ cv:
 
     SKILLS:
       - label: Programming
-        details: Java, Python, JavaScript, HTML, CSS and SQL
+        details: Java, Python, JavaScript, HTML, CSS and SQL.
+      - label: Frameworks
+        details: Django REST Framework, React and .NET 8 Web API.
       - label: Tools
-        details: Git, GitHub, Docker and VS Code
+        details: Git, GitHub, Docker and VS Code.
       - label: Operating Systems
-        details: Linux administration, customization and CLI workflows
+        details: Linux administration, customization and CLI workflows.
       - label: Knowledge Management
-        details: Structured note-taking, technical documentation and second-brain workflows
+        details: Structured note-taking, technical documentation and second-brain workflows.
       - label: Transversal
-        details: Teamwork and proactive collaboration; technical communication; collaborative problem-solving; leadership and team motivation
+        details: Teamwork and proactive collaboration; technical communication; collaborative problem-solving; leadership and team motivation.
 
     INTERESTS:
       - bullet: Free and Open Source Software (FOSS), Linux systems and CLI-based workflows.
       - bullet: Technical documentation, structured note-taking and personal knowledge management.
       - bullet: Automation, scripting, development tooling and reproducible environments.
+
 design:
   theme: engineeringresumes
 locale:

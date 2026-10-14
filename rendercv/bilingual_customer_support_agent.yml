@@ -1,0 +1,78 @@
+cv:
+  name: Brandon Calderón Prieto
+  location: Cali, Colombia
+  email: bcalderonprieto@gmail.com
+  phone: "+57 301 508 8603"
+  website: https://braz9lkdi.github.io
+  social_networks:
+    - network: LinkedIn
+      username: "brandon-calderón-prieto-150829355"
+
+  sections:
+    PROFESSIONAL PROFILE:
+      - Bilingual Systems Engineering student (Spanish native, English B2) with two years of one-on-one support work and a six-month internship at Endava where I used English for meetings and documentation. I am used to handling a case load, following up by phone, video call and chat, recording every interaction in a tracking system and escalating cases to the right specialist. I type fast and accurately and can explain technical problems in plain language.
+
+    LANGUAGES:
+      - label: Spanish
+        details: Native
+      - label: English
+        details: B2 (spoken and written)
+
+    EXPERIENCE:
+      - company: ASES Strategy - Universidad del Valle
+        position: Socio-Academic Mentor
+        start_date: 2023
+        end_date: 2025
+        location: Cali, Colombia
+        highlights:
+          - Handled a case load of several students at the same time, giving each one regular, personal follow-up through their first semesters.
+          - Followed up in person, by phone, by video call and by WhatsApp, listening to each concern and agreeing on next steps.
+          - "Recorded every follow-up in the university's case-tracking system (Módulo ASES), covering five risk areas: individual, economic, family, academic and university life."
+          - Spotted at-risk cases and escalated them to the program's professional staff, following the program's protocol.
+          - Ran practical workshops on study strategies and on tools such as Git and Docker, explaining technical topics to beginners in simple terms.
+
+      - company: Endava
+        position: Data and AI Intern
+        start_date: 2026-02
+        end_date: 2026-07
+        location: Cali, Colombia
+        highlights:
+          - Used English at work for team meetings and written documentation.
+          - Helped build an internal tool that replaced scattered Excel spreadsheets for tracking safety indicators.
+          - Gathered requirements from the people who would use the tool and turned them into clear and tracked work items.
+          - Checked and organized operational data so that reports were accurate and every number could be traced back to its source.
+          - Worked within Scrum, tracking my tasks and reporting progress to the team.
+
+    SKILLS:
+      - label: Customer contact
+        details: Active listening, empathy, clear explanations and follow-up until a case is closed.
+      - label: Systems
+        details: Fast, accurate typing. Documenting cases in tracking systems and task boards. Learns CRM and ticketing tools quickly.
+      - label: Tech support
+        details: Strong computer skills on Windows and Linux. Can troubleshoot software issues and explain them to non-technical users.
+
+    EDUCATION:
+      - institution: Universidad del Valle
+        area: Systems Engineering
+        degree: B.S.
+        start_date: 2021
+        end_date: present
+        location: Cali, Colombia
+
+      - institution: Institución Educativa Santa Fe
+        area: Humanities
+        degree: High School Diploma
+        start_date: 2010
+        end_date: 2020
+        location: Cali, Colombia
+
+design:
+  theme: engineeringresumes
+locale:
+  language: english
+settings:
+  current_date: today
+  render_command:
+    pdf_path: NAME_IN_SNAKE_CASE_CV.pdf
+  bold_keywords: []
+  pdf_title: NAME - CV
